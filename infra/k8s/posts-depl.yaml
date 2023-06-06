@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: posts
-          image: evanhd/posts-76
+          image: evanhd/posts
 ---
 apiVersion: v1
 kind: Service
